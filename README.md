@@ -4,7 +4,7 @@
 I'm a third-year student pursuing a double major in Computer Science and Business at Minerva University. Traveling around the world with Minerva has amplified my passion for technology and innovation. I'm actively working to improve my abilities in Software Development, Data Science, UI/UX design, and AI.
 
 ## 🧰 Skills
-- **Languages & Frameworks:** React, CSS, HTML, SQL, Flask, and Python. 
+- **Languages & Frameworks:** React, CSS, HTML, SQL, Flask, Java, and Python. 
 - **Tools & Technologies:** Git, Docker, Postgres, Postman, and Figma. 
 
 ## 📚 Relevant Coursework
