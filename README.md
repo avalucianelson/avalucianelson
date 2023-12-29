@@ -8,7 +8,7 @@ I'm a third-year student pursuing a double major in Computer Science and Busines
 - **Tools & Technologies:** Git, Docker, Postgres, Postman, and Figma. 
 
 ## 📚 Relevant Coursework
-- Software Development, Fundamentals of Python Programming, Multivariate Calculus, Data Structures and Algorithms, Probability and Statistics, Java Fundamentals, Linear Algebra
+- Software Development, Fundamentals of Computing in Python, Multivariate Calculus, Data Structures and Algorithms, Probability and Statistics, Advanced CS in Java, Linear Algebra
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [Ava Nelson](https://www.linkedin.com/in/ava-n3ls0n/)
