@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello World, I'm Ava 👋
 
-<!--
-**avalucianelson/avalucianelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏼‍💻 About Me
+I'm a third-year student pursuing a double major in Computer Science and Business at Minerva University. Traveling around the world with Minerva has amplified my passion for technology and innovation. I'm actively working to improve my abilities in Software Development, Data Science, UI/UX design, and AI.
 
-Here are some ideas to get you started:
+## 🧰 Skills
+- **Languages & Frameworks:** React, CSS, HTML, SQL, Flask, and Python. 
+- **Tools & Technologies:** Git, Docker, Postgres, Postman, and Figma. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Relevant Coursework
+- Software Development, Fundamentals of Python Programming, Multivariate Calculus, Data Structures and Algorithms, Probability and Statistics, Java Fundamentals, Linear Algebra
+
+## 🌐 Connect with Me
+- **LinkedIn:** [Ava Nelson](https://www.linkedin.com/in/ava-n3ls0n/)
+- **Email:** [ava@uni.minerva.edu](mailto:ava@uni.minerva.edu)
+
+☕️ Reach out to me -- I'd love to chat or collaborate!
+
